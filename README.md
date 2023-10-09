@@ -1,6 +1,6 @@
 # Fintech
 
-Este é um projeto de um Dashboard de vendas construído com React e TypeScript que exibe informações utilizando gráficos sobre os valores recebidos, pagos e falhas em transações. Ele utiliza a API pública de vendas que pode ser acessada em: https://data.origamid.dev/vendas/ para obter os dados. é também exibido outras informações da transação como o nome da pessoa que realizou ela, além od ID da transação e o Status. O projeto tem apenas fins de estudos.
+Este é um projeto de um Dashboard de vendas construído com React e TypeScript que exibe informações utilizando gráficos sobre os valores recebidos, pagos e falhas em transações, é possível escolher o período de dia/mês/ano e vizualizar as transações daquele período. Ele utiliza a API pública de vendas que pode ser acessada em: https://data.origamid.dev/vendas/ para obter os dados. é também exibido outras informações da transação como o nome da pessoa que realizou ela, além od ID da transação e o Status. O projeto tem apenas fins de estudos.
 
 ## Requisitos
 
